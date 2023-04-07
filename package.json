@@ -1,0 +1,23 @@
+{
+  "name": "chatville",
+  "version": "1.0.0",
+  "description": "chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince6687/ChatVille.git"
+  },
+  "keywords": [
+    "chat",
+    "friends"
+  ],
+  "author": "prince verma",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/prince6687/ChatVille/issues"
+  },
+  "homepage": "https://github.com/prince6687/ChatVille#readme"
+}
